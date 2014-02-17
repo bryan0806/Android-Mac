@@ -1,0 +1,8 @@
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.ui.workbench.VIEW_MESSAGE_TEXT_FONT
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Monaco|14.0|0|COCOA|1|Monaco;
+org.eclipse.jdt.ui.editors.textfont=1|Monaco|24.0|0|COCOA|1|Monaco;
+org.eclipse.jdt.ui.javadocfont=1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande;
+org.eclipse.ui.workbench.VIEW_MESSAGE_TEXT_FONT=1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande;
+org.eclipse.wst.sse.ui.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
